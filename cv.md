@@ -18,6 +18,11 @@ Full name: RT
 Phone: +7 111 111 11 11  
 
 Summary:  
+I would like to get more experience and knowledge in UI development.  
+I have some knowledge and experience in the sphere,
+such as developing simple UI parts of services, integration UI into Java's frameworks or fixing some issues into 
+java scripts sources of the project.  
+I decided to take part in the RSS because of my thoughts that it is a great chance to improve my knowledge.
 
 Skills:
 * Java
@@ -56,4 +61,6 @@ Education:
 I was graduated in 2006 by State Technical University, faculty of Information Technologies. I have passed different 
 certification in different spheres, such as SCJP, SCBCD, OCP and etc.  
 English level B1.
+
+Thank you for reading.
 
