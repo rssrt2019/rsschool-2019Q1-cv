@@ -1,4 +1,4 @@
-![Photo of RT](./asserts/images/photo.png)
+![Photo of RT](assets/images/photo.png)  
 
 Full name: RT  
 Phone: +7 111 111 11 11  
